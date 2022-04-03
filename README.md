@@ -23,7 +23,7 @@ The body/content of your blog post goes here
 
 - There is no develop branch for this project at the moment. Create a new branch from the main branch.
 - In the new branch, create a markdown file i.e. file with .md extension. The (full) title of the blog post you are submitting should be the name of the .md file you create (make sure to use hyphens in the file name instead of spaces). 
-- Use the format in the box above to add your blog content to the .md file. Here's an example of how your blog post submission should look like in a .md file after using the format in the box above - add .md file example here.
+- Use the format in the box above to add your blog content to the .md file. Here's an example of how your blog post submission should look like in a .md file after using the format in the box above - [.md file example](https://github.com/code-collabo/submit-a-blog-post/blob/main/what-is-code-collabo-and-who-is-it-for.md).
 - Submit a pull request and wait for review. Here's an example of what it will look like after it is accepted and published on hashnode - [hashnode blog post example](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for).
 
 ## Contributors ✨
