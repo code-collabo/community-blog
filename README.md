@@ -3,10 +3,19 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-TODO:
-- [ ] Add introduction
-- [ ] Add blog post format, and examples of what it would look like in a readme file and on code Collabo's hashnode blog.
-- [ ] Add any other useful information
+Do you love writing? Or does learning to write interest you? Submit a blog post to be featured on [Code Collabo's blog](https://code-collabo.hashnode.dev). The blog post(s) can be about anything in open source, it does not have to be related to or specific to the Code Collabo community.
+
+## How to format and submit your blog post
+
+````
+**Title: Your blog post title goes here**
+
+Subtitle: Blog post subtitle goes here (subtitle is optional)
+
+*Blog post by [Your full name here](link to your github profile here).*
+
+The body/content of your blog post goes here
+````
 
 ## Contributors ✨
 
