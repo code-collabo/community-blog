@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Do you love writing? Or does learning to write interest you? Submit a blog post to be featured on [Code Collabo's blog](https://code-collabo.hashnode.dev). The blog post(s) can be about anything in open source, it does not have to be related to or specific to the Code Collabo community. You can also help improve any of the already published blog posts.
+Do you love writing? Or does learning to write interest you? [Submit a blog post](https://github.com/code-collabo/community-blog#formatting-and-submitting-a-new-blog-post) to be featured on [Code Collabo's blog](https://code-collabo.hashnode.dev). The blog post(s) do not have to be related to or specific to the Code Collabo community. You can write about a topic specific to open source, or even write about something that is not necessarily open source but can be useful to maintainers or users open source projects. You can also help [improve any of the already published blog posts](https://github.com/code-collabo/community-blog#improving-a-published-blog-post).
 
 ## First steps: Important things to take note of
 
