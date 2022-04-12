@@ -21,14 +21,14 @@ Subtitle: Blog post subtitle goes here (subtitle is optional)
 
 The body/content of your blog post goes here
 ````
-- You can first confirm that you should go ahead to write a blog post that you have in mind, by creating a new issue on the [issues page](https://github.com/code-collabo/submit-a-blog-post/issues). In the issue, indicate the title and a short/one-line description. [@Ifycode](https://github.com/Ifycode) will review and get back to you. Once it is confirmed that you can proceed, you can then go ahead to follow the instructions under the instructions below.
-- There is no develop branch for this project at the moment. Create a new branch from the main branch of this repository.
+- Create a new issue on the [issues page](https://github.com/code-collabo/community-blog/issues) to indicate your interest in writing a new blog post. In the issue you create, share the title and a brief description of what the blog post will contain. Once it is confirmed that you can proceed, you can then go ahead to follow the instructions below.
+- Create a new branch from the main branch of this repository.
 - In the new branch, create a markdown file i.e. file with .md extension. The (full) title of the blog post you are submitting should be the name of the .md file you create (make sure to use hyphens in the file name instead of spaces). 
 - Use the format in the box above to add your blog content to the .md file. Here's an example of how your blog post submission should look like in a .md file after using the format in the box above - [.md file example](https://github.com/code-collabo/submit-a-blog-post/blob/main/what-is-code-collabo-and-who-is-it-for.md).
 - Submit a pull request and wait for review. Here's an example of what it will look like after it is accepted and published on hashnode - [hashnode blog post example](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for).
 
 ## Improving a published blog post
-- You can first confirm that you should go ahead to improve an already published blog post, by creating a new issue on the [issues page](https://github.com/code-collabo/submit-a-blog-post/issues). In the issue, share the link to the blog post you wish to improve, and the specific part(s) of the blog post that need improvement. [@Ifycode](https://github.com/Ifycode) will review and get back to you. Once it is confirmed that you can proceed, you can then go ahead to follow the instructions under the instructions below.
+- Create a new issue on the [issues page](https://github.com/code-collabo/community-blog/issues). In the issue you create, share the link to the blog post you wish to improve, and the specific part(s) of the blog post that you noticed needs improvement. Once it is confirmed that you can proceed, you can then go ahead to follow the instructions below.
 - Create a new branch from the main branch of this repository.
 - Make the changes to the .md file that contains the blog post content you want to improve.
 - Submit a pull request and wait for review. The edit history of every post will be added to the blog post to acknowledge your contribution(s) once it is accepted and merged.
