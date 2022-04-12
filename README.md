@@ -9,6 +9,7 @@ Do you love writing? Or does learning to write interest you? [Submit a blog post
 
 - DO NOT copy and paste someone else's blog post from somewhere on the internet to present as your own work. Submit blog post written in your own words. If you do use someone else's words, design etc, please reference them in the blog post and include links to such works where necessary.
 - Only add content that you know or are sure you can put out for free, in the blog post that you submit to this repo.
+- You are also welcome to submit blog posts you have previously written on other platforms.
 
 ## Formatting and submitting a new blog post
 
