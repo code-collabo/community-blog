@@ -27,6 +27,7 @@ The body/content of your blog post goes here
 - In the new branch, create a markdown file i.e. file with .md extension. The (full) title of the blog post you are submitting should be the name of the .md file you create (make sure to use hyphens in the file name instead of spaces). 
 - Use the format in the box above to add your blog content to the .md file. Here's an example of how your blog post submission should look like in a .md file after using the format in the box above - [.md file example](https://github.com/code-collabo/submit-a-blog-post/blob/main/what-is-code-collabo-and-who-is-it-for.md).
 - Submit a pull request and wait for review. Here's an example of what it will look like after it is accepted and published on hashnode - [hashnode blog post example](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for).
+- Don't forget to drop links to your Twitter and LinkedIn handles in your pull request so that you can be tagged as the blog post author, when we announce the release of the blog post on our Twitter and LinkedIn handles.
 
 ## Improving a published blog post
 - Create a new issue on the [issues page](https://github.com/code-collabo/community-blog/issues). In the issue you create, share the link to the blog post you wish to improve, and the specific part(s) of the blog post that you noticed needs improvement. Once it is confirmed that you can proceed, you can then go ahead to follow the instructions below.
