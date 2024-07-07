@@ -1,3 +1,8 @@
+
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
+#
+
 # @code-collabo/community-blog
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
